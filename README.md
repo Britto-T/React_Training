@@ -16,3 +16,4 @@ npx create-react-app react_training --template redux
 API Websites
 1.https://restcountries.com/#api-endpoints-v3-list-of-codes
 2.https://documenter.getpostman.com/view/1134062/T1LJjU52#1796dc54-b450-4774-8901-268e5d92e535
+3.https://apipheny.io/free-api/
